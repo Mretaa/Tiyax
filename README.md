@@ -1,3 +1,6 @@
+![Tiyax logo](./tiyax.png)
+
+
 # 🔥 Tiyax — The Reactive, Modern & Real-Time PHP Framework
 
 **Tiyax** is a next-generation PHP framework designed to bring PHP into the era of **real-time**, **reactivity**, and **native state synchronization**, without relying on external dependencies like Node.js.
